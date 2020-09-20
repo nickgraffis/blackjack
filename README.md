@@ -11,13 +11,13 @@
 ~> blackjack
 ```
 # Game Play
-Try to get the highest card total without going over 21.
-2 - 9 is face value
-['🃏', '👸', '🤴'] are all 10
-'A' is 11 or 1 if you bust
-'A' + ['🃏', '👸', '🤴'] is Black Jack! Automatic winner
-Dealer will not hit past 17
-Tie goes to the house :(
+- Try to get the highest card total without going over 21.
+- 2 - 9 is face value
+- ['🃏', '👸', '🤴'] are all 10
+- 'A' is 11 or 1 if you bust
+- 'A' + ['🃏', '👸', '🤴'] is Black Jack! Automatic winner
+- Dealer will not hit past 17
+- Tie goes to the house :(
 
 # How it works?
 Pretty simple and straight forward, except the recursive design of the computers hand.
