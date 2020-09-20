@@ -1,0 +1,28 @@
+{
+  "name": "@nickgraffis/blackjack",
+  "version": "1.0.0",
+  "description": "🃏Black Jack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickgraffis/blackjack.git"
+  },
+  "keywords": [
+    "black",
+    "jack",
+    "games"
+  ],
+  "author": "Nick Graffis",
+  "license": "MIT",
+  "bin": {
+  "blackjack": "./bin/index.js"
+},
+  "bugs": {
+    "url": "https://github.com/nickgraffis/blackjack/issues"
+  },
+  "homepage": "https://github.com/nickgraffis/blackjack#readme",
+  "dependencies": {}
+}
