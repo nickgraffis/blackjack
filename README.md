@@ -4,7 +4,7 @@ A♥️ 🃏 Black Jack!
 
 # Demo
 
-<img src="/image/demo.gif">
+![demo](/image/demo.gif)
 
 ```
 ~> npm install -g @nickgraffis/blackjack
