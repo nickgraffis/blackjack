@@ -22,7 +22,8 @@ A♥️ 🃏 Black Jack!
 # How it works?
 Pretty simple and straight forward, except the recursive design of the computers hand.
 ```
-var computerAsyncHand = function() {
+var computerAsyncHand = function() {![image](https://user-images.githubusercontent.com/27028689/142096251-23671a4a-0672-4996-a5ad-564153c46782.gif)
+
   if (computerTurn < 2) {
     computerHand.push(randomPoints());
     computerTurn++;
